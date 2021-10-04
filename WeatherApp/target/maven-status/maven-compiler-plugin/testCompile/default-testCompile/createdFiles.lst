@@ -1,0 +1,5 @@
+hybrid\WeatherApp\services\impl\OpenWeatherApiServiceImplTest.class
+hybrid\WeahterApp\integration\CityControllerIntegrationTest.class
+hybrid\WeatherApp\controllers\impl\CityControllerImplTest.class
+hybrid\WeatherApp\controllers\impl\WeatherForecastControllerImplTest.class
+hybrid\WeatherApp\services\impl\WeatherForcastServiceImplTest.class

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: hybrid.WeatherApp.services.impl.WeatherForcastServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.043 s - in hybrid.WeatherApp.services.impl.WeatherForcastServiceImplTest

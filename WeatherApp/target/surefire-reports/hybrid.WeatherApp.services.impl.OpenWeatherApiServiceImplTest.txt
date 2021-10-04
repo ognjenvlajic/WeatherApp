@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: hybrid.WeatherApp.services.impl.OpenWeatherApiServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.109 s <<< FAILURE! - in hybrid.WeatherApp.services.impl.OpenWeatherApiServiceImplTest
+getCityForecastData_Should_ReturnMono(hybrid.WeatherApp.services.impl.OpenWeatherApiServiceImplTest)  Time elapsed: 0.046 s  <<< FAILURE!
+java.lang.AssertionError
+	at hybrid.WeatherApp.services.impl.OpenWeatherApiServiceImplTest.getCityForecastData_Should_ReturnMono(OpenWeatherApiServiceImplTest.java:66)
+
